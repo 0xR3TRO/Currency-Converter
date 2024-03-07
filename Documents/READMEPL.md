@@ -105,4 +105,4 @@ Projekt ma na celu stworzenie prostego przelicznika walut, który wykorzystuje i
 - **Koszty utrzymania:** Serwery, usługi zewnętrzne, ewentualne opłaty za wsparcie techniczne.
 
 ---
-[English](README.md)
+[English](/README.md)

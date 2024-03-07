@@ -105,4 +105,4 @@ The project aims to create a simple currency converter that utilizes an API to f
 - **Maintenance Costs:** Servers, external services, possible fees for technical support.
 
 ---
-[Polish](READMEPL.md)
+[Polish](Documents/READMEPL.md)
